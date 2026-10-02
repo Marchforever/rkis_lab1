@@ -5,3 +5,7 @@ temp/
 Семестр 1 Лекция 1.pdf
 report.html
 build_report.py
+build_matching_pdf.py
+generate_all_images.py
+update_docx.py
+generated_images/
